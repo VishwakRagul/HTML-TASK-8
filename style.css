@@ -1,0 +1,41 @@
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+#question{
+    text-align: center;
+}
+.content{
+    /* border: 2px solid black; */
+    margin-top: 10px;
+    column-count: 3;
+    /* column-rule-width: 2px;
+    column-rule-style: solid; */
+}
+#first{
+    text-align: justify;
+    background-color: deepskyblue;
+    border: 2px solid black;
+}
+#second{
+    text-align: justify;
+    background-color:blueviolet;
+    border: 2px solid black;
+}
+#third{
+    text-align: justify;
+    background-color:brown;
+    border: 2px solid black;
+}
+ #first:hover{
+   background-color: firebrick;
+   color:black;
+}
+#second:hover{
+    background-color: saddlebrown;
+    color:black;
+ }
+ #third:hover{
+    background-color:aqua;
+    color:black;
+ }
